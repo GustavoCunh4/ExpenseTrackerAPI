@@ -1,0 +1,21 @@
+# Ambiente
+.venv/
+__pycache__/
+.pytest_cache/
+.idea/
+.vscode/
+
+# Arquivos de ambiente
+.env
+.env.*
+
+# Cache e artefatos
+*.pyc
+*.pyo
+*.db
+*.sqlite
+
+# Build
+dist/
+build/
+
